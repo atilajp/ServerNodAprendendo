@@ -1,0 +1,28 @@
+{
+  "name": "servernodaprendendo",
+  "version": "1.0.0",
+  "description": "aprendendo nodjs",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atilajp/ServerNodAprendendo.git"
+  },
+  "keywords": [
+    "js",
+    "nodejs",
+    "npm"
+  ],
+  "author": "Atila Melo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/atilajp/ServerNodAprendendo/issues"
+  },
+  "homepage": "https://github.com/atilajp/ServerNodAprendendo#readme"
+}
